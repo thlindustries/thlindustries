@@ -27,26 +27,32 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
 ```
 <br/>
 <br/>
-<div style="width: 100%">
-  <div>
-    <h1 align='left' style="color: #bfbfbf">Atualmente trabalho com:</h1> 
-    <ul>
-      <li><h2 style="color: #06cf38"><strong>NextJs</strong> 💓💓💓</h2></li>
-      <li><h2 style="color: #17b6ff"><strong>React-native</strong></h2></li>
-      <li><h2 style="color: #42d4f5"><strong>ReactJs</strong></h2></li>
-      <li><h2 style="color: #0e9619"><strong>NodeJs</strong></h2></li>
-    </ul>
-  </div>
-  <div> 
-    <h1 align='right' style="color: #bfbfbf">Ja trabalhei com:</h1>
-    <ul align='right'>
-      <h2 style="color: #75ba89"><strong>VueJS</strong></h2>
-      <h2 style="color: #47a334"><strong>Spring Boot</strong></h2>
-      <h2 style="color: #ff3c00"><strong>Laravel</strong></h2>
-      <h2 style="color: #fff">💓💓💓 <strong>Deno</strong></h2>
-    </ul>
-  </div>
-</div>
+<table style="width: 100%">
+  <tr>
+    <th><p align='left' style="color: #bfbfbf; font-size:18px">Atualmente trabalho com:</p> </th>
+    <th><p align='right' style="color: #bfbfbf; font-size:18px">Ja trabalhei com:</p></th>
+  </tr>
+  <tr>
+    <td><p align='left' style="color: #06cf38; font-size:18px"><strong>NextJs</strong> 💓💓💓</p></td>
+    <td><p align='right' style="color: #75ba89; font-size:18px"><strong>VueJS</strong></p></td>
+  </tr>
+  <tr>
+    <td><p align='left' style="color: #17b6ff; font-size:18px"><strong>React-native</strong></p></li></td>
+    <td><p align='right' style="color: #47a334; font-size:18px"><strong>Spring Boot</strong></p></td>
+  </tr>
+  <tr>
+    <td><p align='left' style="color: #42d4f5; font-size:18px"><strong>ReactJs</strong></td>
+    <td><p align='right' style="color: #ff3c00; font-size:18px"><strong>Laravel</strong></p></td>
+  </tr>
+  <tr>
+    <td><p align='left' style="color: #0e9619; font-size:18px"><strong>NodeJs</strong></p></td>
+    <td><p align='right' style="color: #fff; font-size:18px">💓💓💓 <strong>Deno</strong></p></td>
+  </tr>
+</table>
+
+
+<br/>
+<br/>
 
 ## Tecnologias
 
