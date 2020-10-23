@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago@thdev.dev)](mailto:thiago@thdev.dev) 
 
 
-<img align='left' width="250px" style="margin-top: 45px" src="https://i.imgur.com/p4yOkPB.png">  
+<img align='left' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
 
 ## Sobre mim 
 ```diff
