@@ -27,28 +27,30 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
 ```
 <br/>
 <br/>
-<table style="width: 100%">
-  <tr>
-    <th><p align='left' style="color: #bfbfbf; font-size:18px">Atualmente trabalho com:</p> </th>
-    <th><p align='right' style="color: #bfbfbf; font-size:18px">Ja trabalhei com:</p></th>
-  </tr>
-  <tr>
-    <td><p align='left' style="color: #06cf38; font-size:18px"><strong>NextJs</strong> 💓💓💓</p></td>
-    <td><p align='right' style="color: #75ba89; font-size:18px"><strong>VueJS</strong></p></td>
-  </tr>
-  <tr>
-    <td><p align='left' style="color: #17b6ff; font-size:18px"><strong>React-native</strong></p></li></td>
-    <td><p align='right' style="color: #47a334; font-size:18px"><strong>Spring Boot</strong></p></td>
-  </tr>
-  <tr>
-    <td><p align='left' style="color: #42d4f5; font-size:18px"><strong>ReactJs</strong></td>
-    <td><p align='right' style="color: #ff3c00; font-size:18px"><strong>Laravel</strong></p></td>
-  </tr>
-  <tr>
-    <td><p align='left' style="color: #0e9619; font-size:18px"><strong>NodeJs</strong></p></td>
-    <td><p align='right' style="color: #fff; font-size:18px">💓💓💓 <strong>Deno</strong></p></td>
-  </tr>
-</table>
+<center> 
+  <table align="center" style="width: 100%">
+    <tr>
+      <th><p align='left' style="color: #bfbfbf; font-size:18px">Atualmente trabalho com:</p> </th>
+      <th><p align='right' style="color: #bfbfbf; font-size:18px">Ja trabalhei com:</p></th>
+    </tr>
+    <tr>
+      <td><p align='left' style="color: #06cf38; font-size:18px"><strong>NextJs</strong> 💓💓💓</p></td>
+      <td><p align='right' style="color: #75ba89; font-size:18px"><strong>VueJS</strong></p></td>
+    </tr>
+    <tr>
+      <td><p align='left' style="color: #17b6ff; font-size:18px"><strong>React-native</strong></p></li></td>
+      <td><p align='right' style="color: #47a334; font-size:18px"><strong>Spring Boot</strong></p></td>
+    </tr>
+    <tr>
+      <td><p align='left' style="color: #42d4f5; font-size:18px"><strong>ReactJs</strong></td>
+      <td><p align='right' style="color: #ff3c00; font-size:18px"><strong>Laravel</strong></p></td>
+    </tr>
+    <tr>
+      <td><p align='left' style="color: #0e9619; font-size:18px"><strong>NodeJs</strong></p></td>
+      <td><p align='right' style="color: #fff; font-size:18px">💓💓💓 <strong>Deno</strong></p></td>
+    </tr>
+  </table>
+</center>
 
 
 <br/>
