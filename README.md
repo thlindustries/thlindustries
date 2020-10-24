@@ -12,6 +12,8 @@ Olá, sou o Thiago mas pode me chamar de Thiagão.
 
 Conhecedor de algumas tecnologias atuais como:
 • React, 
+• React-Native, 
+• NextJs, 
 • Node, 
 • Vue,
 • Angular,
