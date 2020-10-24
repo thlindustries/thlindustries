@@ -6,9 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/thiago-kraetzer/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago@thdev.dev)](mailto:thiago@thdev.dev) 
 
-
-<img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
-
 ## Sobre mim 
 ```diff
 Olá, sou o Thiago mas pode me chamar de Thiagão.
@@ -82,6 +79,9 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
   <tr>
     <td>
       <a href="https://github.com/thlindustries/" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=thlindustries&show_icons=true&theme=gotham"></a>
+    </td>
+    <td>
+      <img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
     </td>
   </tr>  
 </table>
