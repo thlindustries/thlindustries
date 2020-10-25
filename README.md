@@ -86,6 +86,11 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
       <img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
     </td>
   </tr>  
+  <tr align="center">
+    <td>
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlindustries&hide=html&layout=compact&count_private=true&hide_border=true" />
+    </td>
+  </tr>
 </table>
 
 </center>
