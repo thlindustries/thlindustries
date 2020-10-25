@@ -74,23 +74,25 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/thlindustries/)](https://github.com/thlindustries?tab=repositories&q=&type=&language=)
 
 <br/>
-<br/>
 
 <center>
 <table align='center'>
-  <tr>
-    <td>
+  <tr align="center">
+    <td align="center">
       <a href="https://github.com/thlindustries/" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=thlindustries&show_icons=true&theme=gotham"></a>
     </td>
-    <td>
+    <td align="center">
       <img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
     </td>
   </tr>  
-  <tr align="center">
-    <td align="center">
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlindustries&hide=html&layout=compact&count_private=true&theme=gotham&hide_border=true" />
-    </td>
-  </tr>
+</table>
+<br/>
+<table align="center">
+    <tr align="center">
+        <td align="center">
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlindustries&hide=html&layout=compact&count_private=true&theme=gotham&hide_border=true" />
+        </td>
+    </tr>
 </table>
 
 </center>
