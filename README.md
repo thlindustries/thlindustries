@@ -87,7 +87,9 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
     </td>
   </tr>  
   <tr align="center">
-    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlindustries&hide=html&layout=compact&count_private=true&theme=gotham&hide_border=true" />
+    <td align="center">
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlindustries&hide=html&layout=compact&count_private=true&theme=gotham&hide_border=true" />
+    </td>
   </tr>
 </table>
 
