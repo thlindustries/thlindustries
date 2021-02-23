@@ -76,18 +76,21 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
 <br/>
 
 <center>
-<table align='center'>
-  <tr align="center">
-    <td align="center">
-      <a href="https://github.com/thlindustries/" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=thlindustries&show_icons=true&theme=gotham"></a>
-    </td>
-    <td align="center">
-      <img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
-    </td>
-  </tr>  
-</table>
+  <table align='center'>
+    <tr align="center">
+      <td align="center">
+        <a href="https://github.com/thlindustries/" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=thlindustries&show_icons=true&theme=gotham"></a>
+      </td>
+      <td align="center">
+        <img align='right' width="250px" style="margin-top: 65px" src="https://i.imgur.com/p4yOkPB.png">  
+      </td>
+    </tr>  
+  </table>
 <br/>
-
-
 </center>
+
+# Alguns clientes
+<td align="center">
+  <img align='right' width="960px" style="margin-top: 65px" src="https://i.imgur.com/wUSjvgX.png">  
+</td>
 
