@@ -1,5 +1,5 @@
-# Thiago Lorente Kraetzer <img align='right' src="https://komarev.com/ghpvc/?username=thlindustries&color=af00fa&style=flat"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-![]()
+# Thiago Lorente Kraetzer [![Website Badge](https://img.shields.io/badge/-%20Site-brightgreen)](https://thlinc.com/) <img align='right' src="https://komarev.com/ghpvc/?username=thlindustries&color=af00fa&style=flat"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+![]() 
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TLorentr)](https://twitter.com/Tlorentr) 
