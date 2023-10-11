@@ -91,6 +91,6 @@ Me chama pra trocar uma ideia, vai ser um enorme prazer poder te ajudar :D
 
 # Alguns clientes
 <td align="center">
-  <img align='right' width="960px" style="margin-top: 65px" src="https://i.imgur.com/yyscYga.png">  
+  <img align='right' width="960px" style="margin-top: 65px" src="https://i.imgur.com/DBdMdjO.png">  
 </td>
 
